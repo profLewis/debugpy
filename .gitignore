@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+build/*
+*.swp
 # C extensions
 *.so
 *.dylib
